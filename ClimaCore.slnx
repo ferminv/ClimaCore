@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/AlertService/">
+    <Project Path="src/AlertService/AlertService.Api/AlertService.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/TelemetryService/">
+    <Project Path="src/TelemetryService/TelemetryService.Api/TelemetryService.Api.csproj" />
+  </Folder>
+</Solution>
